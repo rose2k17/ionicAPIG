@@ -11,7 +11,7 @@ Se hace con el comando que aparece a continución:
 
 Y luego se instala la dependencia de Google Maps:
 
-<b>npm install @ionic-native/google-maps --save</b>
+<code>npm install @ionic-native/google-maps --save</code>
 
 # Pasos 
 
