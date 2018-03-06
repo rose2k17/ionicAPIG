@@ -7,7 +7,7 @@ También es mejor que ionic cree la carpeta platform al crear el proyecto con io
  # Para integrar Google Maps
 Se hace con el comando que aparece a continución:
 
-<b>ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_ANDROID_API_KEY_IS_HERE" --variable API_KEY_FOR_IOS="YOUR_IOS_API_KEY_IS_HERE" --save</b>
+<code>ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_ANDROID_API_KEY_IS_HERE" --variable API_KEY_FOR_IOS="YOUR_IOS_API_KEY_IS_HERE" --save</code>
 
 Y luego se instala la dependencia de Google Maps:
 
