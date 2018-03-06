@@ -1,0 +1,8 @@
+{
+  "name": "apigoogle",
+  "app_id": "5c5b7852",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
